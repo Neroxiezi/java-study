@@ -8,3 +8,4 @@
 运行：是指使用 Java 解释器将字节码文件翻译成机器代码，执行并显示结果。
 
 ```
+参考: https://alleniverson.gitbooks.io/java-basic-introduction
